@@ -4,7 +4,7 @@
 
 A dark, ocean-deep single-page experience built for Codaholic. Glassmorphic cards, slow-blur reveals, and a calm cyan current running through every section — from the hero title to the footer's "Don't miss it."
 
-![dark ocean](https://images.pexels.com/photos/9881533/pexels-photo-9881533.jpeg?auto=compress&cs=tinysrgb&w=1800)
+![dark ocean](public/preview_image.png)
 
 ## 🌊 What's inside
 
